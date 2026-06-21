@@ -1,29 +1,4 @@
-<p align="center">
-<a href="https://taztrapp.netlify.app/">
-<img src="https://raw.githubusercontent.com/taztrap/Taztrap/main/Bloxstrap/Taztrap.png" alt="preview" width="100px"/>
-</a>
-</p>
-
 <h1 align="center"><b>Taztrap</b></h1>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/KloBraticc/RandomMods/main/Untitled%20design%20(2)-Photoroom.png" alt="preview" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/taztrap/Taztrap/releases/latest">Latest release</a> |
-  <a href="https://www.youtube.com/watch?v=P-GqTUo_HIA&t">Tutorial</a> |
-  <a href="https://taztrapp.netlify.app/donate/donate">Donate</a> |
-  <a href="https://discord.gg/5tJBqBH8ck">Discord</a>
-</p>
-
-<div align="center">
-
-[![Total Downloads][shield-repo-total]][repo-releases]
-[![Latest Downloads][shield-repo-downloads]][repo-latest]
-[![Latest Release][shield-repo-latest]][repo-latest]
-[![Discord][shield-discord-server]][discord-invite]
-[![Stars][shield-repo-stars]][repo-stargazers]
 
 </div>
 
@@ -39,14 +14,14 @@ Leave a star if you like the project! ⭐️
 > More experienced Linux users can also try tools like **[Lution](https://github.com/wookhq/Lution)**.
 
 ## Find Me
-1. **Roblox:** [@conshun](https://www.roblox.com/users/8657911604/profile)
-2. **YouTube:** [@thisbreadtic](https://www.youtube.com/@thisbreadtic)
-3. **Discord:** `braticlyyy`
+1. **Roblox:** [@TazAxeYTT](https://www.roblox.com/users/3454124769/profile)
+2. **YouTube:** [@TazAxe](https://www.youtube.com/@TazAxe)
+3. **Discord:** [@Taz's Basement](https://discord.gg/CezGacjnr5)
 
 ## Installation
 
 1. Download the latest version
-   👉 https://github.com/taztrap/Taztrap/releases/latest
+   👉 https://github.com/Tazaxe/TazTraper/releases
 2. Run the Exe and Finish the setup
 3. Launch Taztrap
 4. Enjoy a more simple Roblox
@@ -73,7 +48,7 @@ Leave a star if you like the project! ⭐️
   If your antivirus flags it, it is most likely a false positive due to how launchers interact with Roblox processes and updates.
 
   You can verify the source code yourself at:
-  https://github.com/taztrap/Taztrap
+  https://github.com/Tazaxe/TazTraper
   or just scroll up dummy <!-- hada add this -->
 </details>
 
@@ -92,7 +67,7 @@ Taztrap is built using **C# and .NET**
 ### Fork the Repository
 
 1. Go to:  
-   https://github.com/taztrap/Taztrap
+   https://github.com/Tazaxe/TazTraper
 2. Click **Fork** (top right)
 3. This creates your own copy under your GitHub account
 
@@ -105,36 +80,3 @@ Built on top of [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) by pizza
     <td style="width: 33%; text-align: right;"><a href="https://github.com/taztrap/Taztrap/blob/main/LICENSE.TAZTRAP" target="_blank">MIT</a></td>
   </tr>
 </table>
-
-## Star History
-
-<p align="center">
-  <a href="https://www.star-history.com/?repos=taztrap%2FTaztrap%2CKloBraticc%2Ftaztrap&type=timeline&legend=top-left">
-    <img src="https://api.star-history.com/svg?repos=taztrap%2FTaztrap%2CKloBraticc%2Ftaztrap&type=timeline&legend=top-left&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taztrap/Taztrap/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taztrap/Taztrap/output/github-contribution-grid-snake.svg">
-    <img alt="WH MY POOKIES" src="https://raw.githubusercontent.com/taztrap/Taztrap/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/5tJBqBH8ck">
-    <img src="https://invidget.switchblade.xyz/5tJBqBH8ck">
-  </a>
-</p>
-
-[shield-repo-downloads]:  https://img.shields.io/github/downloads/taztrap/Taztrap/latest/total?color=981bfe
-[shield-repo-total]:      https://img.shields.io/github/downloads/taztrap/Taztrap/total?color=8a2be2
-[shield-repo-latest]:     https://img.shields.io/github/v/release/taztrap/Taztrap?color=7a39fb
-[shield-repo-stars]:      https://img.shields.io/github/stars/taztrap/Taztrap?color=ffd700
-[shield-discord-server]:  https://img.shields.io/discord/1327967202015580223?logo=discord&logoColor=white&label=Discord&color=4d3dff
-
-[repo-releases]:          https://github.com/taztrap/Taztrap/releases
-[repo-latest]:            https://github.com/taztrap/Taztrap/releases/latest
-[repo-stargazers]:        https://github.com/taztrap/Taztrap/stargazers
-[discord-invite]:         https://discord.gg/dfA9PdWgcV
