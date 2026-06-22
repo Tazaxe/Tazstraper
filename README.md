@@ -34,7 +34,7 @@ More experienced Linux users can also try tools like <b><a href="https://github.
 ## Installation
 
 1. Download the latest version  
-   👉 https://github.com/Tazaxe/TazTraper/releases  
+   👉 https://github.com/Tazaxe/Tazstraper/releases  
 2. Run the Exe and finish the setup  
 3. Launch Taztrap  
 4. Enjoy a more simple Roblox  
@@ -47,7 +47,7 @@ More experienced Linux users can also try tools like <b><a href="https://github.
   <summary><strong>Can it get you banned?</strong></summary>
   <br>
 
-  No. Taztrap does not inject cheats, exploits, or bypass Roblox security.  
+  No. Tazstrap does not inject cheats, exploits, or bypass Roblox security.  
   It functions as a launcher and configuration manager. However, as with any third-party tool, use it at your own discretion.
 </details>
 
@@ -57,11 +57,11 @@ More experienced Linux users can also try tools like <b><a href="https://github.
   <summary><strong>Is it a virus?</strong></summary>
   <br>
 
-  No. Taztrap is fully open-source, meaning anyone can inspect the code.  
+  No. Tazstrap is fully open-source, meaning anyone can inspect the code.  
   If your antivirus flags it, it is most likely a false positive due to how launchers interact with Roblox processes and updates.
 
   You can verify the source code yourself at:
-  https://github.com/Tazaxe/TazTraper
+  https://github.com/Tazaxe/Tazstraper
 </details>
 
 ---
@@ -80,7 +80,7 @@ Taztrap is built using **C# and .NET**
 ### Fork the Repository
 
 1. Go to:  
-   https://github.com/Tazaxe/TazTraper  
+   https://github.com/Tazaxe/Tazstraper  
 2. Click **Fork** (top right)  
 3. This creates your own copy under your GitHub account  
 
