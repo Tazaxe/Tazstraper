@@ -2,7 +2,7 @@
   <img src="content.png" width="180"/>
 </p>
 
-<h1 align="center"><b>Taztrap</b></h1>
+<h1 align="center"><b>Tazstrap</b></h1>
 
 </div>
 
